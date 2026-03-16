@@ -31,16 +31,13 @@ The automation was built using Make.com and integrates with ExchangeRate API and
 
 ## Workflow Screenshot
 
-![Automation Workflow](project-overview/workflow_screenshot.png)
+![Automation Workflow](https://github.com/mohan1212576/currency-exchange-rate-automation/blob/main/Workflow.jpg)
 
 ---
 
 ## Sample Output Data
 
-| Date | USD | INR Rate | EUR Rate |
-|-----|-----|-----|-----|
-| 2026-02-06 | 1 | 90.335 | 0.8482 |
-
+![Automation Workflow](https://github.com/mohan1212576/currency-exchange-rate-automation/blob/main/Currency%20exchange%20goolge%20sheet.jpg)
 ---
 
 ## Key Learnings
